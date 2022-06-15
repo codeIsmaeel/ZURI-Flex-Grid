@@ -127,7 +127,7 @@ button {
   border: solid hsl(0, 0%, 95%);
 }
 
-/* @media (min-width: 1440px) {
+@media (min-width: 1440px) {
   .content {
     width: 50%;
   }
@@ -136,18 +136,18 @@ button {
 @media (max-width: 375px) {
   .content {
     flex-direction: column;
-    width: 100%;
+    width: 50%;
   }
 }
 
 @media (min-height: 1440px) {
-  body {
+  .content {
     height: auto;
   }
 }
 
 @media (max-height: 375px) {
-  body {
+  .content {
     height: auto;
   }
-} */
+}
