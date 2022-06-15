@@ -129,8 +129,7 @@ button {
 
 @media (min-width: 1440px) {
   .content {
-    width: auto;
-    text-align: justify;
+    width: 50%;
   }
 }
 
