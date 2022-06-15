@@ -127,7 +127,7 @@ button {
   border: solid hsl(0, 0%, 95%);
 }
 
-@media (min-width: 1440px) {
+/* @media (min-width: 1440px) {
   .content {
     width: 50%;
   }
@@ -150,4 +150,4 @@ button {
   body {
     height: auto;
   }
-}
+} */
